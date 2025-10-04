@@ -1,5 +1,9 @@
 # CPU Scheduling Simulation (FCFS, SJF, Round Robin)
 
+
+This is my step by step on how to do CPU scheduling system through algorithms and numbers..
+
+
 This project implements **CPU Scheduling Algorithms** in C++ as part of our Operating Systems coursework.  
 
 - **First Come First Serve (FCFS)** → `fcfs.cpp`
